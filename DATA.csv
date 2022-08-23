@@ -1,0 +1,581 @@
+p. no.,ECG Records,Spo2,H. Blood(mHg),L. Blood(mHg),Chest Pain,Shortness of Breath,Palpitation.,rest?,Peaks,QRS width,Peak to Peak,ST El.,OutputTriage level
+1,Sleep Apnea Records,97,23,12,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+2,Sleep Apnea Records,97,23,12,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+3,Sleep Apnea Records,97,23,12,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+4,Sleep Apnea Records,97,23,12,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+5,Sleep Apnea Records,97,23,12,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+6,Sleep Apnea Records,97,23,12,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+7,Sleep Apnea Records,97,23,12,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+8,Sleep Apnea Records,97,23,12,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+9,Sleep Apnea Records,97,23,12,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+10,Sleep Apnea Records,97,23,12,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+11,Sleep Apnea Records,97,23,12,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+12,Sleep Apnea Records,97,23,12,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+13,Sleep Apnea Records,97,23,12,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+14,Sleep Apnea Records,97,23,12,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+15,Sleep Apnea Records,97,23,12,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+16,Sleep Apnea Records,97,23,12,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+17,Sleep Apnea Records,92,23,12,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+18,Sleep Apnea Records,92,23,12,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+19,Sleep Apnea Records,92,23,12,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+20,Sleep Apnea Records,92,23,12,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+21,Sleep Apnea Records,92,23,12,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+22,Sleep Apnea Records,92,23,12,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+23,Sleep Apnea Records,92,23,12,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+24,Sleep Apnea Records,92,23,12,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+25,Sleep Apnea Records,92,23,12,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+26,Sleep Apnea Records,92,23,12,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+27,Sleep Apnea Records,92,23,12,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,risk
+28,Sleep Apnea Records,92,23,12,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,risk
+29,Sleep Apnea Records,92,23,12,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+30,Sleep Apnea Records,92,23,12,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+31,Sleep Apnea Records,92,23,12,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+32,Sleep Apnea Records,92,23,12,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+33,Sleep Apnea Records,97,15,10,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+34,Sleep Apnea Records,97,15,10,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+35,Sleep Apnea Records,97,15,10,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+36,Sleep Apnea Records,97,15,10,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+37,Sleep Apnea Records,97,15,10,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+38,Sleep Apnea Records,97,15,10,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+39,Sleep Apnea Records,97,15,10,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+40,Sleep Apnea Records,97,15,10,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+41,Sleep Apnea Records,97,15,10,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+42,Sleep Apnea Records,97,15,10,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+43,Sleep Apnea Records,97,15,10,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+44,Sleep Apnea Records,97,15,10,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+45,Sleep Apnea Records,97,15,10,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+46,Sleep Apnea Records,97,15,10,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+47,Sleep Apnea Records,97,15,10,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+48,Sleep Apnea Records,97,15,10,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+49,Sleep Apnea Records,92,15,10,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+50,Sleep Apnea Records,92,15,10,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+51,Sleep Apnea Records,92,15,10,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+52,Sleep Apnea Records,92,15,10,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+53,Sleep Apnea Records,92,15,10,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+54,Sleep Apnea Records,92,15,10,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+55,Sleep Apnea Records,92,15,10,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+56,Sleep Apnea Records,92,15,10,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+57,Sleep Apnea Records,92,15,10,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+58,Sleep Apnea Records,92,15,10,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+59,Sleep Apnea Records,92,15,10,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+60,Sleep Apnea Records,92,15,10,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+61,Sleep Apnea Records,92,15,10,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+62,Sleep Apnea Records,92,15,10,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+63,Sleep Apnea Records,92,15,10,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+64,Sleep Apnea Records,92,15,10,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+65,Sleep Apnea Records,97,12,8,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Cold State
+66,Sleep Apnea Records,97,12,8,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Cold State
+67,Sleep Apnea Records,97,12,8,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+68,Sleep Apnea Records,97,12,8,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+69,Sleep Apnea Records,97,12,8,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+70,Sleep Apnea Records,97,12,8,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+71,Sleep Apnea Records,97,12,8,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+72,Sleep Apnea Records,97,12,8,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+73,Sleep Apnea Records,97,12,8,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+74,Sleep Apnea Records,97,12,8,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+75,Sleep Apnea Records,97,12,8,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+76,Sleep Apnea Records,97,12,8,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+77,Sleep Apnea Records,97,12,8,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+78,Sleep Apnea Records,97,12,8,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+79,Sleep Apnea Records,97,12,8,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+80,Sleep Apnea Records,97,12,8,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+81,Sleep Apnea Records,92,12,8,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+82,Sleep Apnea Records,92,12,8,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+83,Sleep Apnea Records,92,12,8,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+84,Sleep Apnea Records,92,12,8,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+85,Sleep Apnea Records,92,12,8,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+86,Sleep Apnea Records,92,12,8,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+87,Sleep Apnea Records,92,12,8,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+88,Sleep Apnea Records,92,12,8,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+89,Sleep Apnea Records,92,12,8,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+90,Sleep Apnea Records,92,12,8,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+91,Sleep Apnea Records,92,12,8,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+92,Sleep Apnea Records,92,12,8,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+93,Sleep Apnea Records,92,12,8,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+94,Sleep Apnea Records,92,12,8,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+95,Sleep Apnea Records,92,12,8,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+96,Sleep Apnea Records,92,12,8,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+97,Sleep Apnea Records,80,12,8,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+98,Sleep Apnea Records,80,12,8,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+99,Sleep Apnea Records,80,12,8,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+100,Sleep Apnea Records,80,12,8,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Sick
+101,Sleep Apnea Records,80,12,8,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+102,Sleep Apnea Records,80,12,8,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+103,Sleep Apnea Records,80,12,8,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+104,Sleep Apnea Records,80,12,8,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+105,Sleep Apnea Records,80,12,8,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+106,Sleep Apnea Records,80,12,8,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+107,Sleep Apnea Records,80,12,8,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+108,Sleep Apnea Records,80,12,8,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+109,Sleep Apnea Records,80,12,8,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+110,Sleep Apnea Records,80,12,8,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+111,Sleep Apnea Records,80,12,8,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+112,Sleep Apnea Records,80,12,8,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+113,Sleep Apnea Records,80,15,10,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+114,Sleep Apnea Records,80,15,10,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+115,Sleep Apnea Records,80,15,10,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Sick
+116,Sleep Apnea Records,80,15,10,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+117,Sleep Apnea Records,80,15,10,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+118,Sleep Apnea Records,80,15,10,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+119,Sleep Apnea Records,80,15,10,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+120,Sleep Apnea Records,80,15,10,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+121,Long Term ST Records,80,15,10,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+122,Long Term ST Records,80,15,10,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+123,Long Term ST Records,80,15,10,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,risk
+124,Long Term ST Records,80,15,10,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,risk
+125,Long Term ST Records,80,15,10,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+126,Long Term ST Records,80,15,10,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+127,Long Term ST Records,80,15,10,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+128,Long Term ST Records,80,15,10,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+129,Long Term ST Records,80,23,12,FALSE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+130,Long Term ST Records,80,23,12,FALSE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Sick
+131,Long Term ST Records,80,23,12,FALSE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+132,Long Term ST Records,80,23,12,FALSE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+133,Long Term ST Records,80,23,12,FALSE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,Sick
+134,Long Term ST Records,80,23,12,FALSE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+135,Long Term ST Records,80,23,12,FALSE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,Urgent
+136,Long Term ST Records,80,23,12,FALSE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,Urgent
+137,Long Term ST Records,80,23,12,TRUE,FALSE,FALSE,FALSE,67,0.06,Regular,YES,Urgent
+138,Long Term ST Records,80,23,12,TRUE,FALSE,FALSE,TRUE,67,0.06,Regular,YES,Urgent
+139,Long Term ST Records,80,23,12,TRUE,FALSE,TRUE,FALSE,67,0.06,Regular,YES,risk
+140,Long Term ST Records,80,23,12,TRUE,FALSE,TRUE,TRUE,67,0.06,Regular,YES,risk
+141,Long Term ST Records,80,23,12,TRUE,TRUE,FALSE,FALSE,67,0.06,Regular,YES,risk
+142,Long Term ST Records,80,23,12,TRUE,TRUE,FALSE,TRUE,67,0.06,Regular,YES,risk
+143,Long Term ST Records,80,23,12,TRUE,TRUE,TRUE,FALSE,67,0.06,Regular,YES,risk
+144,Long Term ST Records,80,23,12,TRUE,TRUE,TRUE,TRUE,67,0.06,Regular,YES,risk
+145,Arrythmia Records,97,23,12,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+146,Arrythmia Records,97,23,12,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+147,Arrythmia Records,97,23,12,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+148,Arrythmia Records,97,23,12,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+149,Arrythmia Records,97,23,12,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+150,Arrythmia Records,97,23,12,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+151,Arrythmia Records,97,23,12,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+152,Arrythmia Records,97,23,12,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+153,Arrythmia Records,97,23,12,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+154,Arrythmia Records,97,23,12,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+155,Arrythmia Records,97,23,12,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+156,Arrythmia Records,97,23,12,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+157,Arrythmia Records,97,23,12,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+158,Arrythmia Records,97,23,12,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+159,Arrythmia Records,97,23,12,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+160,Arrythmia Records,97,23,12,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+161,Arrythmia Records,92,23,12,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+162,Arrythmia Records,92,23,12,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+163,Arrythmia Records,92,23,12,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+164,Arrythmia Records,92,23,12,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+165,Arrythmia Records,92,23,12,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+166,Arrythmia Records,92,23,12,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+167,Arrythmia Records,92,23,12,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+168,Arrythmia Records,92,23,12,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+169,Arrythmia Records,92,23,12,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+170,Arrythmia Records,92,23,12,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+171,Arrythmia Records,92,23,12,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+172,Arrythmia Records,92,23,12,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+173,Arrythmia Records,92,23,12,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Urgent
+174,Arrythmia Records,92,23,12,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+175,Arrythmia Records,92,23,12,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,risk
+176,Arrythmia Records,92,23,12,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,risk
+177,Arrythmia Records,97,15,10,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Cold State
+178,Arrythmia Records,97,15,10,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Cold State
+179,Arrythmia Records,97,15,10,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+180,Arrythmia Records,97,15,10,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+181,Arrythmia Records,97,15,10,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+182,Arrythmia Records,97,15,10,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+183,Arrythmia Records,97,15,10,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+184,Arrythmia Records,97,15,10,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+185,Arrythmia Records,97,15,10,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+186,Arrythmia Records,97,15,10,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+187,Arrythmia Records,97,15,10,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+188,Arrythmia Records,97,15,10,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+189,Arrythmia Records,97,15,10,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+190,Arrythmia Records,97,15,10,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+191,Arrythmia Records,97,15,10,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+192,Arrythmia Records,97,15,10,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+193,Arrythmia Records,92,15,10,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+194,Arrythmia Records,92,15,10,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+195,Arrythmia Records,92,15,10,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+196,Arrythmia Records,92,15,10,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+197,Arrythmia Records,92,15,10,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+198,Arrythmia Records,92,15,10,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+199,Arrythmia Records,92,15,10,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+200,Arrythmia Records,92,15,10,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+201,Arrythmia Records,92,15,10,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+202,Arrythmia Records,92,15,10,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+203,Arrythmia Records,92,15,10,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+204,Arrythmia Records,92,15,10,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+205,Arrythmia Records,92,15,10,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+206,Arrythmia Records,92,15,10,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+207,Arrythmia Records,92,15,10,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+208,Arrythmia Records,92,15,10,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+209,Arrythmia Records,97,12,8,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Cold State
+210,Arrythmia Records,97,12,8,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Cold State
+211,Arrythmia Records,97,12,8,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+212,Arrythmia Records,97,12,8,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+213,Arrythmia Records,97,12,8,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Cold State
+214,Arrythmia Records,97,12,8,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Cold State
+215,Arrythmia Records,97,12,8,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+216,Arrythmia Records,97,12,8,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+217,Arrythmia Records,97,12,8,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+218,Arrythmia Records,97,12,8,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+219,Arrythmia Records,97,12,8,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+220,Arrythmia Records,97,12,8,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+221,Arrythmia Records,97,12,8,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+222,Arrythmia Records,97,12,8,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+223,Arrythmia Records,97,12,8,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+224,Arrythmia Records,97,12,8,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+225,Arrythmia Records,92,12,8,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Cold State
+226,Arrythmia Records,92,12,8,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Cold State
+227,Arrythmia Records,92,12,8,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+228,Arrythmia Records,92,12,8,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+229,Arrythmia Records,92,12,8,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+230,Arrythmia Records,92,12,8,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+231,Arrythmia Records,92,12,8,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+232,Arrythmia Records,92,12,8,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+233,Arrythmia Records,92,12,8,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+234,Arrythmia Records,92,12,8,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+235,Arrythmia Records,92,12,8,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+236,Arrythmia Records,92,12,8,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+237,Arrythmia Records,92,12,8,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+238,Arrythmia Records,92,12,8,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+239,Arrythmia Records,92,12,8,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+240,Arrythmia Records,92,12,8,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+241,Arrythmia Records,80,12,8,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+242,Arrythmia Records,80,12,8,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+243,Arrythmia Records,80,12,8,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+244,Arrythmia Records,80,12,8,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+245,Arrythmia Records,80,12,8,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+246,Arrythmia Records,80,12,8,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+247,Arrythmia Records,80,12,8,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+248,Arrythmia Records,80,12,8,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+249,Arrythmia Records,80,12,8,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+250,Arrythmia Records,80,12,8,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+251,Arrythmia Records,80,12,8,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+252,Arrythmia Records,80,12,8,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+253,Arrythmia Records,80,12,8,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+254,Arrythmia Records,80,12,8,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+255,Arrythmia Records,80,12,8,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+256,Arrythmia Records,80,12,8,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+257,Arrythmia Records,80,15,10,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+258,Arrythmia Records,80,15,10,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+259,Arrythmia Records,80,15,10,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+260,Arrythmia Records,80,15,10,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Sick
+261,Arrythmia Records,80,15,10,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+262,Arrythmia Records,80,15,10,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+263,Arrythmia Records,80,15,10,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+264,Arrythmia Records,80,15,10,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+265,Arrythmia Records,80,15,10,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+266,Arrythmia Records,80,15,10,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+267,Arrythmia Records,80,15,10,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+268,Arrythmia Records,80,15,10,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+269,Arrythmia Records,80,15,10,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Urgent
+270,Arrythmia Records,80,15,10,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+271,Arrythmia Records,80,15,10,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,risk
+272,Arrythmia Records,80,15,10,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,risk
+273,Arrythmia Records,80,23,12,FALSE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+274,Arrythmia Records,80,23,12,FALSE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+275,Arrythmia Records,80,23,12,FALSE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,Sick
+276,Arrythmia Records,80,23,12,FALSE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+277,Arrythmia Records,80,23,12,FALSE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Sick
+278,Arrythmia Records,80,23,12,FALSE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Sick
+279,Arrythmia Records,80,23,12,FALSE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,Urgent
+280,Arrythmia Records,80,23,12,FALSE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,Urgent
+281,Arrythmia Records,80,23,12,TRUE,FALSE,FALSE,FALSE,54,0.5,Regular,NO,Urgent
+282,Arrythmia Records,80,23,12,TRUE,FALSE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+283,Arrythmia Records,80,23,12,TRUE,FALSE,TRUE,FALSE,54,0.5,Regular,NO,risk
+284,Arrythmia Records,80,23,12,TRUE,FALSE,TRUE,TRUE,54,0.5,Regular,NO,risk
+285,Arrythmia Records,80,23,12,TRUE,TRUE,FALSE,FALSE,54,0.5,Regular,NO,Urgent
+286,Arrythmia Records,80,23,12,TRUE,TRUE,FALSE,TRUE,54,0.5,Regular,NO,Urgent
+287,Arrythmia Records,80,23,12,TRUE,TRUE,TRUE,FALSE,54,0.5,Regular,NO,risk
+288,Arrythmia Records,80,23,12,TRUE,TRUE,TRUE,TRUE,54,0.5,Regular,NO,risk
+289,Arrythmia Records,97,23,12,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+290,Arrythmia Records,97,23,12,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+291,Arrythmia Records,97,23,12,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+292,Arrythmia Records,97,23,12,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+293,Arrythmia Records,97,23,12,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+294,Arrythmia Records,97,23,12,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+295,Arrythmia Records,97,23,12,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+296,Arrythmia Records,97,23,12,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+297,Arrythmia Records,97,23,12,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+298,Arrythmia Records,97,23,12,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+299,Arrythmia Records,97,23,12,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+300,Arrythmia Records,97,23,12,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+301,Arrythmia Records,97,23,12,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+302,Arrythmia Records,97,23,12,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+303,Arrythmia Records,97,23,12,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+304,Arrythmia Records,97,23,12,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+305,Arrythmia Records,92,23,12,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+306,Arrythmia Records,92,23,12,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+307,Arrythmia Records,92,23,12,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+308,Arrythmia Records,92,23,12,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+309,Arrythmia Records,92,23,12,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+310,Arrythmia Records,92,23,12,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+311,Arrythmia Records,92,23,12,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+312,Arrythmia Records,92,23,12,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+313,Arrythmia Records,92,23,12,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+314,Arrythmia Records,92,23,12,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+315,Arrythmia Records,92,23,12,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+316,Arrythmia Records,92,23,12,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+317,Arrythmia Records,92,23,12,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,risk
+318,Arrythmia Records,92,23,12,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,risk
+319,Arrythmia Records,92,23,12,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+320,Arrythmia Records,92,23,12,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+321,Arrythmia Records,97,15,10,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+322,Arrythmia Records,97,15,10,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+323,Arrythmia Records,97,15,10,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+324,Arrythmia Records,97,15,10,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+325,Arrythmia Records,97,15,10,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+326,Arrythmia Records,97,15,10,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+327,Arrythmia Records,97,15,10,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+328,Arrythmia Records,97,15,10,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+329,Arrythmia Records,97,15,10,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+330,Arrythmia Records,97,15,10,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+331,Arrythmia Records,97,15,10,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+332,Arrythmia Records,97,15,10,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+333,Arrythmia Records,97,15,10,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+334,Arrythmia Records,97,15,10,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+335,Arrythmia Records,97,15,10,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+336,Arrythmia Records,97,15,10,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+337,Arrythmia Records,92,15,10,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+338,Arrythmia Records,92,15,10,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+339,Arrythmia Records,92,15,10,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+340,Arrythmia Records,92,15,10,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+341,Arrythmia Records,92,15,10,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+342,Arrythmia Records,92,15,10,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+343,Arrythmia Records,92,15,10,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+344,Arrythmia Records,92,15,10,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+345,Arrythmia Records,92,15,10,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+346,Arrythmia Records,92,15,10,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+347,Arrythmia Records,92,15,10,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+348,Arrythmia Records,92,15,10,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+349,Arrythmia Records,92,15,10,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+350,Arrythmia Records,92,15,10,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+351,Arrythmia Records,92,15,10,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+352,Arrythmia Records,92,15,10,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+353,Arrythmia Records,97,12,8,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Cold State
+354,Arrythmia Records,97,12,8,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+355,Arrythmia Records,97,12,8,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+356,Arrythmia Records,97,12,8,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+357,Arrythmia Records,97,12,8,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+358,Arrythmia Records,97,12,8,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+359,Arrythmia Records,97,12,8,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+360,Arrythmia Records,97,12,8,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+361,Arrythmia Records,97,12,8,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+362,Arrythmia Records,97,12,8,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+363,Arrythmia Records,97,12,8,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+364,Arrythmia Records,97,12,8,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+365,Arrythmia Records,97,12,8,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+366,Arrythmia Records,97,12,8,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+367,Arrythmia Records,97,12,8,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+368,Arrythmia Records,97,12,8,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+369,Arrythmia Records,92,12,8,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+370,Arrythmia Records,92,12,8,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+371,Arrythmia Records,92,12,8,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+372,Arrythmia Records,92,12,8,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+373,Arrythmia Records,92,12,8,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+374,Arrythmia Records,92,12,8,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+375,Arrythmia Records,92,12,8,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+376,Arrythmia Records,92,12,8,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+377,Arrythmia Records,92,12,8,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+378,Arrythmia Records,92,12,8,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+379,Arrythmia Records,92,12,8,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+380,Arrythmia Records,92,12,8,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+381,Arrythmia Records,92,12,8,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+382,Arrythmia Records,92,12,8,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+383,Arrythmia Records,92,12,8,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+384,Arrythmia Records,92,12,8,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+385,Arrythmia Records,80,12,8,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+386,Arrythmia Records,80,12,8,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+387,Arrythmia Records,80,12,8,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Sick
+388,Arrythmia Records,80,12,8,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Sick
+389,Arrythmia Records,80,12,8,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+390,Arrythmia Records,80,12,8,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+391,Arrythmia Records,80,12,8,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+392,Arrythmia Records,80,12,8,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+393,Arrythmia Records,80,12,8,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+394,Arrythmia Records,80,12,8,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+395,Arrythmia Records,80,12,8,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+396,Arrythmia Records,80,12,8,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+397,Arrythmia Records,80,12,8,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+398,Arrythmia Records,80,12,8,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+399,Arrythmia Records,80,12,8,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+400,Arrythmia Records,80,12,8,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+401,Arrythmia Records,80,15,10,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+402,Arrythmia Records,80,15,10,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+403,Arrythmia Records,80,15,10,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+404,Arrythmia Records,80,15,10,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+405,Arrythmia Records,80,15,10,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+406,Arrythmia Records,80,15,10,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+407,Arrythmia Records,80,15,10,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+408,Arrythmia Records,80,15,10,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+409,Arrythmia Records,80,15,10,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+410,Arrythmia Records,80,15,10,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+411,Arrythmia Records,80,15,10,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+412,Arrythmia Records,80,15,10,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+413,Arrythmia Records,80,15,10,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,risk
+414,Arrythmia Records,80,15,10,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,risk
+415,Arrythmia Records,80,15,10,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+416,Arrythmia Records,80,15,10,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+417,Arrythmia Records,80,23,12,FALSE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,Sick
+418,Arrythmia Records,80,23,12,FALSE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,Sick
+419,Arrythmia Records,80,23,12,FALSE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,Urgent
+420,Arrythmia Records,80,23,12,FALSE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,Urgent
+421,Arrythmia Records,80,23,12,FALSE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,Urgent
+422,Arrythmia Records,80,23,12,FALSE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,Urgent
+423,Arrythmia Records,80,23,12,FALSE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+424,Arrythmia Records,80,23,12,FALSE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+425,Arrythmia Records,80,23,12,TRUE,FALSE,FALSE,FALSE,77,0.047,Regular,YES,risk
+426,Arrythmia Records,80,23,12,TRUE,FALSE,FALSE,TRUE,77,0.047,Regular,YES,risk
+427,Arrythmia Records,80,23,12,TRUE,FALSE,TRUE,FALSE,77,0.047,Regular,YES,risk
+428,Arrythmia Records,80,23,12,TRUE,FALSE,TRUE,TRUE,77,0.047,Regular,YES,risk
+429,Arrythmia Records,80,23,12,TRUE,TRUE,FALSE,FALSE,77,0.047,Regular,YES,risk
+430,Arrythmia Records,80,23,12,TRUE,TRUE,FALSE,TRUE,77,0.047,Regular,YES,risk
+431,Arrythmia Records,80,23,12,TRUE,TRUE,TRUE,FALSE,77,0.047,Regular,YES,risk
+432,Arrythmia Records,80,23,12,TRUE,TRUE,TRUE,TRUE,77,0.047,Regular,YES,risk
+433,Heart Failure Records,97,23,12,FALSE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Cold State
+434,Heart Failure Records,97,23,12,FALSE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Cold State
+435,Heart Failure Records,97,23,12,FALSE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+436,Heart Failure Records,97,23,12,FALSE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+437,Heart Failure Records,97,23,12,FALSE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+438,Heart Failure Records,97,23,12,FALSE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+439,Heart Failure Records,97,23,12,FALSE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+440,Heart Failure Records,97,23,12,FALSE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+441,Heart Failure Records,97,23,12,TRUE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+442,Heart Failure Records,97,23,12,TRUE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+443,Heart Failure Records,97,23,12,TRUE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+444,Heart Failure Records,97,23,12,TRUE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+445,Heart Failure Records,97,23,12,TRUE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+446,Heart Failure Records,97,23,12,TRUE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+447,Heart Failure Records,97,23,12,TRUE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Urgent
+448,Heart Failure Records,97,23,12,TRUE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+449,Heart Failure Records,92,23,12,FALSE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+450,Heart Failure Records,92,23,12,FALSE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+451,Heart Failure Records,92,23,12,FALSE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+452,Heart Failure Records,92,23,12,FALSE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+453,Heart Failure Records,92,23,12,FALSE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+454,Heart Failure Records,92,23,12,FALSE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+455,Heart Failure Records,92,23,12,FALSE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+456,Heart Failure Records,92,23,12,FALSE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+457,Heart Failure Records,92,23,12,TRUE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+458,Heart Failure Records,92,23,12,TRUE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+459,Heart Failure Records,92,23,12,TRUE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Urgent
+460,Heart Failure Records,92,23,12,TRUE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+461,Heart Failure Records,92,23,12,TRUE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+462,Heart Failure Records,92,23,12,TRUE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Urgent
+463,Heart Failure Records,92,23,12,TRUE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Urgent
+464,Heart Failure Records,92,23,12,TRUE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+465,Heart Failure Records,97,15,10,FALSE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Cold State
+466,Heart Failure Records,97,15,10,FALSE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Cold State
+467,Heart Failure Records,97,15,10,FALSE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+468,Heart Failure Records,97,15,10,FALSE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+469,Heart Failure Records,97,15,10,FALSE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Cold State
+470,Heart Failure Records,97,15,10,FALSE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Cold State
+471,Heart Failure Records,97,15,10,FALSE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+472,Heart Failure Records,97,15,10,FALSE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+473,Heart Failure Records,97,15,10,TRUE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+474,Heart Failure Records,97,15,10,TRUE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+475,Heart Failure Records,97,15,10,TRUE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+476,Heart Failure Records,97,15,10,TRUE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+477,Heart Failure Records,97,15,10,TRUE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+478,Heart Failure Records,97,15,10,TRUE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+479,Heart Failure Records,97,15,10,TRUE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+480,Heart Failure Records,97,15,10,TRUE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+481,Heart Failure Records,92,15,10,FALSE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Cold State
+482,Heart Failure Records,92,15,10,FALSE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Cold State
+483,Heart Failure Records,92,15,10,FALSE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+484,Heart Failure Records,92,15,10,FALSE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+485,Heart Failure Records,92,15,10,FALSE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+486,Heart Failure Records,92,15,10,FALSE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+487,Heart Failure Records,92,15,10,FALSE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+488,Heart Failure Records,92,15,10,FALSE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Sick
+489,Heart Failure Records,92,15,10,TRUE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+490,Heart Failure Records,92,15,10,TRUE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+491,Heart Failure Records,92,15,10,TRUE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Sick
+492,Heart Failure Records,92,15,10,TRUE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+493,Heart Failure Records,92,15,10,TRUE,TRUE,FALSE,FALSE,64,0.169,Regular,NO,Sick
+494,Heart Failure Records,92,15,10,TRUE,TRUE,FALSE,TRUE,64,0.169,Regular,NO,Sick
+495,Heart Failure Records,92,15,10,TRUE,TRUE,TRUE,FALSE,64,0.169,Regular,NO,Urgent
+496,Heart Failure Records,92,15,10,TRUE,TRUE,TRUE,TRUE,64,0.169,Regular,NO,Urgent
+497,Heart Failure Records,97,12,8,FALSE,FALSE,FALSE,FALSE,64,0.169,Regular,NO,Cold State
+498,Heart Failure Records,97,12,8,FALSE,FALSE,FALSE,TRUE,64,0.169,Regular,NO,Cold State
+499,Heart Failure Records,97,12,8,FALSE,FALSE,TRUE,FALSE,64,0.169,Regular,NO,Cold State
+500,Heart Failure Records,97,12,8,FALSE,FALSE,TRUE,TRUE,64,0.169,Regular,NO,Cold State
+501,Normal ECG,97,23,12,TRUE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Sick
+502,Normal ECG,97,23,12,TRUE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Sick
+503,Normal ECG,97,23,12,TRUE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+504,Normal ECG,97,23,12,TRUE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+505,Normal ECG,97,15,10,TRUE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Sick
+506,Normal ECG,97,15,10,TRUE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Sick
+507,Normal ECG,97,15,10,TRUE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+508,Normal ECG,97,15,10,TRUE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+509,Normal ECG,97,12,8,TRUE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+510,Normal ECG,97,12,8,TRUE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Sick
+511,Normal ECG,97,12,8,TRUE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+512,Normal ECG,97,12,8,TRUE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+513,Normal ECG,97,12,8,FALSE,FALSE,TRUE,TRUE,normal,,Regular,UNKNOWN,Cold State
+514,Normal ECG,97,12,8,FALSE,FALSE,TRUE,FALSE,normal,,Regular,UNKNOWN,Cold State
+515,Normal ECG,97,12,8,FALSE,FALSE,FALSE,TRUE,normal,,Regular,UNKNOWN,Normal
+516,Normal ECG,97,12,8,FALSE,FALSE,FALSE,FALSE,normal,,Regular,UNKNOWN,Normal
+517,Normal ECG,97,12,8,TRUE,FALSE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+518,Normal ECG,97,12,8,TRUE,FALSE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+519,Normal ECG,97,12,8,TRUE,FALSE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+520,Normal ECG,97,12,8,TRUE,FALSE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+521,Normal ECG,97,12,8,FALSE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Cold State
+522,Normal ECG,97,12,8,FALSE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+523,Normal ECG,97,12,8,FALSE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Cold State
+524,Normal ECG,97,12,8,FALSE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+525,Normal ECG,97,15,8,TRUE,FALSE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+526,Normal ECG,97,15,8,TRUE,FALSE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+527,Normal ECG,97,15,8,TRUE,FALSE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+528,Normal ECG,97,15,8,TRUE,FALSE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+529,Normal ECG,97,15,8,FALSE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Cold State
+530,Normal ECG,97,15,8,FALSE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+531,Normal ECG,97,15,8,FALSE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Cold State
+532,Normal ECG,97,15,8,FALSE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+533,Normal ECG,97,12,10,TRUE,FALSE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+534,Normal ECG,97,12,10,TRUE,FALSE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+535,Normal ECG,97,12,10,TRUE,FALSE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+536,Normal ECG,97,12,10,TRUE,FALSE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+537,Normal ECG,97,12,10,TRUE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+538,Normal ECG,97,12,10,TRUE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+539,Normal ECG,97,12,10,TRUE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+540,Normal ECG,97,12,10,TRUE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+541,Normal ECG,97,12,10,FALSE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Cold State
+542,Normal ECG,97,12,10,FALSE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+543,Normal ECG,97,12,10,FALSE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Cold State
+544,Normal ECG,97,12,10,FALSE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+545,Normal ECG,97,12,8,TRUE,FALSE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+546,Normal ECG,97,12,8,TRUE,FALSE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+547,Normal ECG,97,12,8,TRUE,FALSE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+548,Normal ECG,97,12,8,TRUE,FALSE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+549,Normal ECG,97,12,8,TRUE,TRUE,TRUE,TRUE,normal,,Regular,UNKNOWN,Sick
+550,Normal ECG,97,12,8,TRUE,TRUE,TRUE,FALSE,normal,,Regular,UNKNOWN,Sick
+551,Normal ECG,97,12,8,TRUE,TRUE,FALSE,TRUE,normal,,Regular,UNKNOWN,Cold State
+552,Normal ECG,97,12,8,TRUE,TRUE,FALSE,FALSE,normal,,Regular,UNKNOWN,Cold State
+553,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+554,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+555,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+556,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+557,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+558,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+559,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+560,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+561,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+562,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+563,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+564,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+565,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+566,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+567,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+568,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+569,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+570,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+571,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+572,Normal  ECG with HR 110,97,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Normal
+573,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+574,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+575,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+576,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+577,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+578,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+579,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
+580,Normal  ECG with HR 110,92,12,8,FALSE,FALSE,FALSE,TRUE,110,,Regular,UNKNOWN,Sick
